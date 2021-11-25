@@ -1,13 +1,13 @@
 # JAVA_FSD_Fullstack_Project
 
-How to deploy on your local
+**How to deploy on your local**
 
 1) Open in Netbeans/Eclipse
 2) Click Clean and Build
 3) Click on Run or Debug
 
 
-Prerequisite -
+**Prerequisite -**
 
 1) Java
 2) MySQL
