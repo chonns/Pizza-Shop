@@ -1,4 +1,4 @@
-# JAVA_FSD_Fullstack_Project
+# Food Odering App
 
 **How to deploy on your local**
 
